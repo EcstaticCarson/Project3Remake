@@ -1,0 +1,1208 @@
+{
+    "easyQuest":[
+        {
+            "q":"What year did World War 1 begin?",
+            "a1":"1897",
+            "a2":"1917",
+            "a3":"1939",
+            "a4":"1914",
+            "c":"1914"
+        },
+        {
+            "q":"What country was Hitler born in?",
+            "a1":"Germany",
+            "a2":"France",
+            "a3":"Austria",
+            "a4":"Switzerland",
+            "c":"Austria"
+        },
+        {
+            "q":"Where was JFK assassinated?",
+            "a1":"New York",
+            "a2":"Dallas",
+            "a3":"Austin",
+            "a4":"San Antonio",
+            "c":"Dallas"
+        },
+        {
+            "q":"Who is considered 'Father of the Nation' in the U.S.?",
+            "a1":"John Adams",
+            "a2":"Thomas Jefferson",
+            "a3":"George Washington",
+            "a4":"Thomas Jefferson",
+            "c":"George Washington"
+        },
+        {
+            "q":"Who fought in the War of 1812?",
+            "a1":"Napoleon Bonaparte",
+            "a2":"Andrew Jackson",
+            "a3":"Duke of Wellington",
+            "a4":"Thomas Jefferson",
+            "c":"Andrew Jackson"
+        },
+        {
+            "q":"Which general famously say,'I shall return'?",
+            "a1":"George S. Custer",
+            "a2":"George Patton",
+            "a3":"Douglas MacArthur",
+            "a4":"Ulysses S. Grant",
+            "c":"Douglas MacArthur"
+        },
+        {
+            "q":"In which decade did the United States become more involved in the Korean War?",
+            "a1":"1950s",
+            "a2":"1940s",
+            "a3":"1960s",
+            "a4":"1970s",
+            "c":"1950s"
+        },
+        {
+            "q":"Where was the Battle of Hastings in 1066 fought?",
+            "a1":"France",
+            "a2":"Russia",
+            "a3":"England",
+            "a4":"Germany",
+            "c":"England"
+        },
+        {
+            "q":"The Magna Carta was signed by which King?",
+            "a1":"King Henry II",
+            "a2":"King John",
+            "a3":"King Richard I",
+            "a4":"King Henry III",
+            "c":"King John"
+        },
+        {
+            "q":"Who currently leads the nation of North Korea?",
+            "a1":"Kim Jong-il",
+            "a2":"Kim Jong-nam",
+            "a3":"Kim Jong-un",
+            "a4":"Kim Yo-jong",
+            "c":"Kim Jong-un"
+        },
+        {
+            "q":"Who was/is NOT a Civil Rights Leader?",
+            "a1":"Roy Ottoway Wilkens",
+            "a2":"Martin Luther King",
+            "a3":"Malcom X",
+            "a4":" Elijah Muhammad",
+            "c":"Elijah Muhammad"
+        },
+        {
+            "q":"The first successful printing press was created by who?",
+            "a1":"Johannes Gutenberg",
+            "a2":"Benjamin Franklin",
+            "a3":"Martin Luther",
+            "a4":"Galileo",
+            "c":"Johannes Gutenberg"
+        },
+        {
+            "q":"The Hundred Years War was between which two countries?",
+            "a1":"Russia and Germany",
+            "a2":"England and Germany",
+            "a3":"Spain and France",
+            "a4":"England and France",
+            "c":"England and France"
+        },
+        {
+            "q":"This man wrote and nailed his 95 Theses to a church door.",
+            "a1":"Voltaire",
+            "a2":"Martin Luther",
+            "a3":"Isaac Newton",
+            "a4":"Galileo",
+            "c":"Martin Luther"
+        },
+        {
+            "q":"The Khmer Rouge was a communist party to which country?",
+            "a1":"Vietnam",
+            "a2":"Laos",
+            "a3":"Cambodia",
+            "a4":"China",
+            "c":"Cambodia"
+        },
+        {
+            "q":"Which famous warlord in the 5th centure was known as 'The Scourge of God'?",
+            "a1":"Attila the Hun",
+            "a2":"William the Conqueror",
+            "a3":"Hannibal",
+            "a4":"Genghis Khan",
+            "c":"Attila the Hun"
+        },
+        {
+            "q":"Which famous rifle was known in America as 'The Gun that Won the West'?",
+            "a1":"Henry Repeating Rifle",
+            "a2":"Colt Peacemaker",
+            "a3":"Winchester Model 1873",
+            "a4":"Remington Army Revolver",
+            "c":"Winchester Model 1873"
+        },
+        {
+            "q":"Who was the first Western explorer to reach China?",
+            "a1":"Sir Francis Drake",
+            "a2":"Marco Polo",
+            "a3":"Magellan",
+            "a4":"Christopher Columbus",
+            "c":"Marco Polo"
+        },
+        {
+            "q":"Who was Emperor of the French Empire",
+            "a1":"Napoleon III",
+            "a2":"Julius Caesar",
+            "a3":"Napoleon I",
+            "a4":"Charlemagne",
+            "c":"Napoleon I"
+        },
+        {
+            "q":"Who lead the Union in the American Civil War?",
+            "a1":"George Washington",
+            "a2":"Robert E. Lee",
+            "a3":"Theadore Roosevelt",
+            "a4":"Abraham Lincoln",
+            "c":"Abraham Lincoln"
+        },
+        {
+            "q":"Which of these countries is NOT in Asia?",
+            "a1":"Syria",
+            "a2":"Israel",
+            "a3":"Greece",
+            "a4":"Egypt",
+            "c":"Greece"
+        },
+        {
+            "q":"Where is Israel located?",
+            "a1":"Middle East",
+            "a2":"Africa",
+            "a3":"Europe",
+            "a4":"Doesn't Exist",
+            "c":"Middle East"
+        },
+        {
+            "q":"Which type of government is North Korea?",
+            "a1":"Democratic",
+            "a2":"Communist",
+            "a3":"Anarchy",
+            "a4":"Monarchy",
+            "c":"Communist"
+        },
+        {
+            "q":"Who was considered 'the Lionheart' during the Crusades?",
+            "a1":"Saladin",
+            "a2":"Pope Urban",
+            "a3":"King Baldwin IV",
+            "a4":"Richard I",
+            "c":"Richard I"
+        },
+        {
+            "q":"Who was famously stabbed 23 times in Rome?",
+            "a1":"Augustus Caesar",
+            "a2":"Mark Antony",
+            "a3":"Julius Caesar",
+            "a4":"Cleopatra",
+            "c":"Julius Caesar"
+        },
+        {
+            "q":"Who is the only President to hold 4 terms in office?",
+            "a1":"Richard Nixon",
+            "a2":"Franklin Roosevelt",
+            "a3":"Theodore Roosevelt",
+            "a4":"George Washington",
+            "c":"Franklin Roosevelt"
+        },
+        {
+            "q":"Which of these is NOT a famous U.S. General?",
+            "a1":"George Washington",
+            "a2":"George S. Patton",
+            "a3":"Ulysses S. Grant",
+            "a4":"Alexander Hamilton",
+            "c":"Alexander Hamilton"
+        },
+        {
+            "q":"Who was the 'Desert Fox' in World War 2?",
+            "a1":"George S. Patton",
+            "a2":"Bernard Montgomery",
+            "a3":"Erwin Rommel",
+            "a4":"Georgy Zhukov",
+            "c":"Erwin Rommel"
+        },
+        {
+            "q":"Who is/was one of the founders of Apple?",
+            "a1":"Steve Jobs",
+            "a2":"Bill Gates",
+            "a3":"Paul Allen",
+            "a4":"Andy Rubin",
+            "c":"Steve Jobs"
+        },
+        {
+            "q":"Who was the first president to resign while in office?",
+            "a1":"John F. Kennedy",
+            "a2":"Ronald Reagan",
+            "a3":"Jimmy Carter",
+            "a4":"Richard Nixon",
+            "c":"Richard Nixon"
+        },
+        {
+            "q":"What are the first 10 amendments called in the U.S. Constitution?",
+            "a1":"Bill of Liberty",
+            "a2":"Bill of Rights",
+            "a3":"Bill of Freedoms",
+            "a4":"Bill of Laws",
+            "c":"Bill of Rights"
+        },
+        {
+            "q":"What is the heir-apparent 'officially' called in a monarchy?",
+            "a1":"Crown Prince/Princess",
+            "a2":"Heir",
+            "a3":"Successor",
+            "a4":"Next In Line",
+            "c":"Crown Prince/Princess"
+        },
+        {
+            "q":"Who were the victors of the World War I?",
+            "a1":"Triple Entente",
+            "a2":"Central Powers",
+            "a3":"Triple Alliance",
+            "a4":"Allied Powers",
+            "c":"Triple Entente"
+        },
+        {
+            "q":"What language do Austrians speak?",
+            "a1":"Austrian",
+            "a2":"German",
+            "a3":"Hungarian",
+            "a4":"Italian",
+            "c":"German"
+        },
+        {
+            "q":"Who was the lead singer of Queen before his death in 1991?",
+            "a1":"Brian Mays",
+            "a2":"Roger Taylor",
+            "a3":"Freddie Mercury",
+            "a4":"Tom Petty",
+            "c":"Freddie Mercury"
+        },
+        {
+            "q":"Who made the 'guarantee' to win in Super Bowl II?",
+            "a1":"Johnny Unitas",
+            "a2":"Joe Namath",
+            "a3":"Otto Graham",
+            "a4":"Tom Brady",
+            "c":"Joe Namath"
+        },
+        {
+            "q":"What type of governmental system is the United States?",
+            "a1":"Republic",
+            "a2":"Democracy",
+            "a3":"Communism",
+            "a4":"Socialism",
+            "c":"Republic"
+        },
+        {
+            "q":"Who is/was the current Queen of England?",
+            "a1":"Elizabeth I",
+            "a2":"Elizabeth II",
+            "a3":"Mary I",
+            "a4":"Catherine II",
+            "c":"Elizabeth II"
+        },
+        {
+            "q":"Who caused the Cultural Revolution in China?",
+            "a1":"Chiang Kai-shek",
+            "a2":"Sun Yet-sen",
+            "a3":"Mao Zedong",
+            "a4":"Deng Xiaoping",
+            "c":"Mao Zedong"
+        },
+        {
+            "q":"Which of these nations was NOT in existance during the 9th century?",
+            "a1":"Western Roman Empire",
+            "a2":"Byzantine Empire",
+            "a3":"Holy Roman Empire",
+            "a4":"Papal States",
+            "c":"Western Roman Empire"
+        },
+        {
+            "q":"Who is the head of the Roman Catholic Church?",
+            "a1":"Holy Roman Emperor",
+            "a2":"King of Italy",
+            "a3":"The Pope",
+            "a4":"Roman Emperor",
+            "c":"The Pope"
+        },
+        {
+            "q":"Who won the Battle of Hastings in 1066?",
+            "a1":"William the Conqueror",
+            "a2":"Harold Godwinson",
+            "a3":"Harald Hardrada",
+            "a4":"Edward The Confessor",
+            "c":"William the Conqueror"
+        },
+        {
+            "q":"Who was the famous Israelite King that built the first Holy Temple in Jerusalem?",
+            "a1":"King David",
+            "a2":"King Saul",
+            "a3":"King Ahab",
+            "a4":"King Solomon",
+            "c":"King Solomon"
+        },
+        {
+            "q":"Who is the famous yet legendary Israelite prophet that led his people out of Egypt?",
+            "a1":"Joshua",
+            "a2":"Moses",
+            "a3":"Nathan",
+            "a4":"Aaron",
+            "c":"Moses"
+        },
+        {
+            "q":"Which of these men did NOT fight in World War I?",
+            "a1":"John J. Pershing",
+            "a2":"Henry Johnson",
+            "a3":"Walt Disney",
+            "a4":"Hunter Liggett",
+            "c":"Walt Disney"
+        },
+        {
+            "q":"What battle in World War I did the Germans defeat the larger Russian Army?",
+            "a1":"Battle of the Marne",
+            "a2":"Battle of Tannenberg",
+            "a3":"Battle of the Somme",
+            "a4":"Battle of Verdun",
+            "c":"Battle of Tannenberg"
+        },
+        {
+            "q":"Who was blamed for the outbreak of World War I?",
+            "a1":"Austria-Hungary",
+            "a2":"Ottoman Empire",
+            "a3":"German Empire",
+            "a4":"Serbia",
+            "c":"German Empire"
+        },
+        {
+            "q":"Who was the writer of the Declaration of Independence?",
+            "a1":"John Adams",
+            "a2":"Alexander Hamilton",
+            "a3":"Benjamin Franklin",
+            "a4":"Thomas Jefferson",
+            "c":"Thomas Jefferson"
+        },
+        {
+            "q":"Which of these U.S. states was NOT part of the original 13 colonies?",
+            "a1":"Georgia",
+            "a2":"Florida",
+            "a3":"Maine",
+            "a4":"Massachusetts",
+            "c":"Florida"
+        },
+        {
+            "q":"Which of these U.S. Presidents is NOT on Mount Rushmore?",
+            "a1":"Abraham Lincoln",
+            "a2":"George Washington",
+            "a3":"Thomas Jefferson",
+            "a4":"John Adams",
+            "c":"John Adams"
+        }
+    ],
+    "medQuest": [
+        {
+            "q": "When was the first video game invented for entertainment?",
+            "a1": "1972",
+            "a2": "1976",
+            "a3": "1958",
+            "a4": "1966",
+            "c": "1958"
+        },
+        {
+            "q": "Who was the first Emperor of a unified China?",
+            "a1": "Emperor Wu of Jin",
+            "a2": "Emperor Qin Shi Huang",
+            "a3": "Emperor Tang Taizong",
+            "a4": "Emperor Gaozu of Han",
+            "c": "Emperor Qin Shi Huang"
+        },
+        {
+            "q": "What was Confucius considered in Ancient China and other countries?",
+            "a1": "A God",
+            "a2": "A Martial Artist",
+            "a3": "A Philosopher",
+            "a4": "A Warlord/Ruler",
+            "c": "A Philosopher"
+        },
+        {
+            "q": "Which Chinese dynasty led to a peasant rebellion called the 'Yellow Turban Rebellion'?",
+            "a1": "Han",
+            "a2": "Shang",
+            "a3": "Qing",
+            "a4": "Tang",
+            "c": "Han"
+        },
+        {
+            "q": "What is the Japanese word for 'divine wind' that prevented the Mongol Invasion?",
+            "a1": "Yamamoto",
+            "a2": "Shikoku",
+            "a3": "Arigato",
+            "a4": "Kamikaze",
+            "c": "Kamikaze"
+        },
+        {
+            "q": "When did Japan's Warring States end?",
+            "a1": "1582",
+            "a2": "1545",
+            "a3": "1600",
+            "a4": "1615",
+            "c": "1600"
+        },
+        {
+            "q": "Which 2 religions were started in India?",
+            "a1": "Buddhism and Paganism",
+            "a2": "Paganism and Shintoism",
+            "a3": "Hinduism and Confucianism",
+            "a4": "Buddhism and Hinduism",
+            "c": "Buddhism and Hinduism"
+        },
+        {
+            "q": "Which is the largest land empire in history?",
+            "a1": "Roman Empire",
+            "a2": "British Empire",
+            "a3": "Mongol Empire",
+            "a4": "Russian Empire",
+            "c": "British Empire"
+        },
+        {
+            "q": "Which of these cities was never an official capital of Japan?",
+            "a1": "Edo",
+            "a2": "Sapporo",
+            "a3": "Tokyo",
+            "a4": "Kyoto",
+            "c": "Sapporo"
+        },
+        {
+            "q": "In what year did the Soviet Union totally dissolve itself?",
+            "a1": "1990",
+            "a2": "1989",
+            "a3": "1991",
+            "a4": "1992",
+            "c": "1990"
+        },
+        {
+            "q": "Who was the Communist revolutionary that opposed Stalin and was exiled from the USSR?",
+            "a1": "Vladimir Lenin",
+            "a2": "Nikita Krushchev",
+            "a3": "Mikhail Kalinin",
+            "a4": "Leon Trotsky",
+            "c": "Leon Trotsky"
+        },
+        {
+            "q": "What is the first epic poem/story that was translated to Old English?",
+            "a1": "Arthur and the Round Table",
+            "a2": "Beowulf",
+            "a3": "Song of Roland",
+            "a4": "Dante's Inferno",
+            "c": "Beowulf"
+        },
+        {
+            "q": "How many survived Custer's Last Stand (Little Bighorn) with Colonel Custer?",
+            "a1": "432",
+            "a2": "100",
+            "a3": "1",
+            "a4": "None",
+            "c": "None"
+        },
+        {
+            "q": "Which famous Native American leader took part in the Great Sioux War of 1876?",
+            "a1": "Sitting Bull",
+            "a2": "Tecumseh",
+            "a3": "Black Knife",
+            "a4": "Geronimo",
+            "c": "Sitting Bull"
+        },
+        {
+            "q": "Joseph Stalin was born in which modern day country?",
+            "a1": "Armenia",
+            "a2": "Russia",
+            "a3": "Georgia",
+            "a4": "Ukraine",
+            "c": "Georgia"
+        },
+        {
+            "q": "Who was the longest ruling leader of the Romanov Dynasty?",
+            "a1": "Catherine II",
+            "a2": "Peter I",
+            "a3": "Nicolas II",
+            "a4": "Alexander II",
+            "c": "Peter I"
+        },
+        {
+            "q": "Which military leader was crowned 'Emperor of the Romans' first?",
+            "a1": "Charlemagne",
+            "a2": "Constantine",
+            "a3": "Attila the Hun",
+            "a4": "Julius Caesar",
+            "c": "Charlemagne"
+        },
+        {
+            "q": "Who is considered the 'Vicar of Christ'?",
+            "a1": "Holy Roman Emperor",
+            "a2": "The Pope",
+            "a3": "Roman Emperor",
+            "a4": "Saint Peter",
+            "c": "The Pope"
+        },
+        {
+            "q": "How long did the Third Reich last?",
+            "a1": "1,000 years",
+            "a2": "13 years",
+            "a3": "47 years",
+            "a4": "846 years",
+            "c": "13 years"
+        },
+        {
+            "q": "Which of these two countries is apart of two continents?",
+            "a1": "Turkey",
+            "a2": "Spain",
+            "a3": "Italy",
+            "a4": "Belarus",
+            "c": "Turkey"
+        },
+        {
+            "q": "Which of these South American countries is known to have the Amazon River within its borders?",
+            "a1": "Venezuela",
+            "a2": "Chile",
+            "a3": "Brazil",
+            "a4": "Argentina",
+            "c": "Brazil"
+        },
+        {
+            "q": "Who legalised Christianity in the Roman Empire?",
+            "a1": "Nero",
+            "a2": "Caligula",
+            "a3": "Diocletian",
+            "a4": "Constantine",
+            "c": "Constantine"
+        },
+        {
+            "q": "Which colonial nation first ruled the Philippines?",
+            "a1": "United States",
+            "a2": "China",
+            "a3": "Spain",
+            "a4": "Japan",
+            "c": "Spain"
+        },
+        {
+            "q": "How long did the British Empire last?",
+            "a1": "1948",
+            "a2": "1997",
+            "a3": "1981",
+            "a4": "1973",
+            "c": "1997"
+        },
+        {
+            "q": "Who is the infamous ruler of Russia that was known to have killed his own son?",
+            "a1": "Alexander II",
+            "a2": "Ivan IV",
+            "a3": "Feodor I",
+            "a4": "Ivan V",
+            "c": "Ivan IV"
+        },
+        {
+            "q": "Who's famous last words were these: 'Let us cross the river, and rest under the trees.'?",
+            "a1": "Robert E. Lee",
+            "a2": "Ulysses S. Grant",
+            "a3": "Abraham Lincoln",
+            "a4": "Stonewall Jackson",
+            "c": "Stonewall Jackson"
+        },
+        {
+            "q": "Which nation did NOT trade and reach Japan in the 16th Century?",
+            "a1": "Portugal",
+            "a2": "Holland",
+            "a3": "Spain",
+            "a4": "England",
+            "c": "England"
+        },
+        {
+            "q": "Which Western nation was the first to begin trade with Japan?",
+            "a1": "Spain",
+            "a2": "Portugal",
+            "a3": "Holland",
+            "a4": "France",
+            "c": "Portugal"
+        },
+        {
+            "q": "Who did Queen Isabella I marry to unify Spain?",
+            "a1": "Ferdinand II of Aragorn",
+            "a2": "Henry IV",
+            "a3": "Henry VI",
+            "a4": "John II of Castile",
+            "c": "Ferdinand II of Aragorn"
+        },
+        {
+            "q": "Who was the second unifer of Japan?",
+            "a1": "Tokugawa Ieyasu",
+            "a2": "Toyotomi Hideyoshi",
+            "a3": "Oda Nobunaga",
+            "a4": "Ashikaga Yoshiaki",
+            "c": "Toyotomi Hideyoshi"
+        },
+        {
+            "q": "Who was the 9th Tlatoani during the arrival of Hernan Cortes?",
+            "a1": "Moctezuma II",
+            "a2": "Itzcoatl",
+            "a3": "Moctezuma I",
+            "a4": "Nezahualcoyotl",
+            "c": "Moctezuma II"
+        },
+        {
+            "q": "What does the word 'Catholic' mean in Greek/Latin?",
+            "a1": "State",
+            "a2": "National",
+            "a3": "Universal",
+            "a4": "Imperial",
+            "c": "Universal"
+        },
+        {
+            "q": "What mythical blade did King Arthur wield after receiving it from the Lady of the Lake?",
+            "a1": "Caliburn",
+            "a2": "Galatine",
+            "a3": "Pridwen",
+            "a4": "Excalibur",
+            "c": "Excalibur"
+        },
+        {
+            "q": "What century did the Renaissance come into effect?",
+            "a1": "14th Century",
+            "a2": "15th Century",
+            "a3": "16th Century",
+            "a4": "17th Century",
+            "c": "14th Century"
+        },
+        {
+            "q": "Which U.S. President is the first to die in office?",
+            "a1": "Abraham Lincoln",
+            "a2": "William Henry Harrison",
+            "a3": "James A. Garfield",
+            "a4": "William McKinley",
+            "c": "William Henry Harrison"
+        },
+        {
+            "q": "Which African country was recently split into North and South?",
+            "a1": "Congo",
+            "a2": "Zaire",
+            "a3": "Sudan",
+            "a4": "Algeria",
+            "c": "Sudan"
+        },
+        {
+            "q": "Which South American leader was known as 'The Liberator'?",
+            "a1": "Simon Bolivar",
+            "a2": "Bernardo O'Higgans",
+            "a3": "Francisco de Miranda",
+            "a4": "Manuel Pier",
+            "c": "Simon Bolivar"
+        },
+        {
+            "q": "What island did Napoleon Bonaparte die on?",
+            "a1": "Elba",
+            "a2": "Malta",
+            "a3": "Sardinia",
+            "a4": "Helena",
+            "c": "Helena"
+        },
+        {
+            "q": "Which of these decisions was NOT the cause of Napoleon's downfall?",
+            "a1": "Contintental System",
+            "a2": "Peninsular War",
+            "a3": "Invasion of Russia",
+            "a4": "Marriage to Marie Louise",
+            "c": "Marriage to Marie Louise"
+        },
+        {
+            "q": "What happened on October 24, 1929?",
+            "a1": "Herbert Hoover was elected president",
+            "a2": "Stock Market Crash",
+            "a3": "Women got the right to vote",
+            "a4": "Prohibition came to an end",
+            "c": "Stock Market Crash"
+        },
+        {
+            "q": "What is the 19th Amendent of the U.S. Constitution?",
+            "a1": "Prohibition of Alcohol",
+            "a2": "Women's right to vote",
+            "a3": "Repealing the 18th Amendment",
+            "a4": "Income Tax introduced",
+            "c": "Women's right to vote"
+        },
+        {
+            "q": "Who was the most corrupt president in U.S. History?",
+            "a1": "Donald Trump",
+            "a2": "Richard Nixon",
+            "a3": "James Buchanan",
+            "a4": "Warren Harding",
+            "c": "Richard Nixon"
+        },
+        {
+            "q": "Which U.S. President is known to have 'said very little and had a very dry sense of humor'?",
+            "a1": "Richard Nixon",
+            "a2": "Franklin Roosevelt",
+            "a3": "Calvin Coolidge",
+            "a4": "Woodrow Wilson",
+            "c": "Calvin Coolidge"
+        },
+        {
+            "q": "What boat famously sunk in 1912?",
+            "a1": "Titanic",
+            "a2": "Lusitania",
+            "a3": "Britannic",
+            "a4": "Olympic",
+            "c": "Titanic"
+        },
+        {
+            "q": "Who ruled the Yuan Dynasty as Emperor in 1271?",
+            "a1": "Wang Meng",
+            "a2": "Liu Xiu",
+            "a3": "Kublai Khan",
+            "a4": "Hong Taiji",
+            "c": "Kublai Khan"
+        },
+        {
+            "q": "What was the Meiji Restoration?",
+            "a1": "An event to restore practical imperial rule",
+            "a2": "Opening the doors to foreign nations",
+            "a3": "Placing an Emperor back on the throne",
+            "a4": "Reformation of the Tokugawa government",
+            "c": "An event to restore practical imperial rule"
+        },
+        {
+            "q": "What year was Korea annexed by Japan?",
+            "a1": "1918",
+            "a2": "1912",
+            "a3": "1900",
+            "a4": "1910",
+            "c": "1910"
+        },
+        {
+            "q": "When did the Industrial Revolution take off?",
+            "a1": "19th Century",
+            "a2": "18th Century",
+            "a3": "20th Century",
+            "a4": "16th Century",
+            "c": "19th Century"
+        },
+        {
+            "q": "Which U.S. President caused the Trail of Tears?",
+            "a1": "Andrew Johnson",
+            "a2": "Andrew Jackson",
+            "a3": "Martin Van Buren",
+            "a4": "John Quincy Adams",
+            "c": "Andrew Jackson"
+        },
+        {
+            "q": "Which U.S. Civil War battle was the bloodiest?",
+            "a1": "Antietam",
+            "a2": "Vicksburg",
+            "a3": "Gettysburg",
+            "a4": "Fredericksburg",
+            "c": "Gettysburg"
+        }
+    ],
+    "hardQuest": [
+        {
+            "q": "Who is Emilio Aguinaldo?",
+            "a1": "Communist leader in China",
+            "a2": "Democratic politician in Spain",
+            "a3": "Revolutionary politician in Philippines",
+            "a4": "Dictator in Portugal",
+            "c": "Revolutionary politician in Philippines"
+        },
+        {
+            "q": "When did California officially join the United States?",
+            "a1": "1846",
+            "a2": "1850",
+            "a3": "1854",
+            "a4": "1848",
+            "c": "1850"
+        },
+        {
+            "q": "Which country is Yi Sun-Sin considered a national hero?",
+            "a1": "China",
+            "a2": "Korea",
+            "a3": "Japan",
+            "a4": "Vietnam",
+            "c": "Korea"
+        },
+        {
+            "q": "What caused the War of the Eight Princes?",
+            "a1": "Internal family conflicts",
+            "a2": "Mongolian Invasion",
+            "a3": "Peasant Rebellions",
+            "a4": "Corruption and Nepotism",
+            "c": "Internal family conflicts"
+        },
+        {
+            "q": "Which ruler of Egypt was the final ruler of the Ptolemy Dynasty?",
+            "a1": "Ptolemy II",
+            "a2": "Cleopatra VII",
+            "a3": "Cleopatra V",
+            "a4": "Ptolemy XIV",
+            "c": "Cleopatra VIi"
+        },
+        {
+            "q": "When did the Taiga Reform take place?",
+            "a1": "1025 AD",
+            "a2": "1181 AD",
+            "a3": "600 BC",
+            "a4": "645 AD",
+            "c": "645 AD"
+        },
+        {
+            "q": "Who was Emperor during the downfall of the Han Dynasty?",
+            "a1": "Emperor Gaozu",
+            "a2": "Emperor Xian",
+            "a3": "Emperor Ling",
+            "a4": "Emperor Shao",
+            "c": "Emperor Xian"
+        },
+        {
+            "q": "When was the Catholic Church officially named the state religion in the Roman Empire?",
+            "a1": "313 AD",
+            "a2": "325 AD",
+            "a3": "380 AD",
+            "a4": "431 AD",
+            "c": "380 AD"
+        },
+        {
+            "q": "Who were the two major families fighting in the War of the Roses?",
+            "a1": "Oxford and Howard",
+            "a2": "York and Lancaster",
+            "a3": "Warwick and Lowell",
+            "a4": "Salisbury and Lovell",
+            "c": "York and Lancaster"
+        },
+        {
+            "q": "Who was famously known as the 'Tiger of Kai'?",
+            "a1": "Uesugi Kenshin",
+            "a2": "Takeda Shingen",
+            "a3": "Oda Nobunaga",
+            "a4": "Toyotomi Hideyoshi",
+            "c": "Takeda Shingen"
+        },
+        {
+            "q": "Who famously stated, 'I Am The State!'?",
+            "a1": "Louis XIV",
+            "a2": "Louis XVI",
+            "a3": "Louis-Philippe",
+            "a4": "Charles X",
+            "c": "Louis XIV"
+        },
+        {
+            "q": "Which person did Stalin consider 'my Himmler'?",
+            "a1": "Nikita Krushchev",
+            "a2": "Georgy Malenkov",
+            "a3": "Lazar Kagonovich",
+            "a4": "Lavrentiy Beria",
+            "c": "Lavrentiy Beria"
+        },
+        {
+            "q": "Who was the first 'official' Holy Roman Emperor?",
+            "a1": "Francis II",
+            "a2": "Otto I",
+            "a3": "Charlemagne",
+            "a4": "Frederick I",
+            "c": "Otto I"
+        },
+        {
+            "q": "Who was Hitler's favorite architect in World War II?",
+            "a1": "Heinrich Himmler",
+            "a2": "Rudolf Hess",
+            "a3": "Karl Donitz",
+            "a4": "Albert Speer",
+            "c": "Albert Speer"
+        },
+        {
+            "q": "What did Genghis Khan allow when he conquered nations?",
+            "a1": "Freedom of Speech",
+            "a2": "Freedom of Religion",
+            "a3": "Citizenship",
+            "a4": "No rights",
+            "c": "Freedom of Religion"
+        },
+        {
+            "q": "When did the Ottomans invade and conquer Constantinople (now renamed Istanbul)?",
+            "a1": "1453",
+            "a2": "1354",
+            "a3": "1204",
+            "a4": "1180",
+            "c": "1453"
+        },
+        {
+            "q": "Whom did the United States support during the Chinese Civil War?",
+            "a1": "Chinese Communist Party",
+            "a2": "Chinese Democratic Party",
+            "a3": "Chinese Nationalist Party",
+            "a4": "Chinese Republican Party",
+            "c": "Chinese Nationalist Party"
+        },
+        {
+            "q": "Which American athlete participate in the 1936 Olympics?",
+            "a1": "Nancy Kerrigan",
+            "a2": "Tommie Smith",
+            "a3": "Jesse Owens",
+            "a4": "Jim Thorpe",
+            "c": "Jesse Owens"
+        },
+        {
+            "q": "Which of these nations did NOT take part in the Boxer Rebellion?",
+            "a1": "France",
+            "a2": "Germany",
+            "a3": "United States",
+            "a4": "Poland",
+            "c": "Poland"
+        },
+        {
+            "q": "Who was the first Emperor of Japan",
+            "a1": "Jimmu",
+            "a2": "Amaterasu",
+            "a3": "Susanoo",
+            "a4": "Himeko",
+            "c": "Jimmu"
+        },
+        {
+            "q": "What was the famous naval battle in which Horatio Nelson was killed in?",
+            "a1": "Battle of Lepanto",
+            "a2": "Battle of Actium",
+            "a3": "Battle of the Chesapeake",
+            "a4": "Battle of Trafalgar",
+            "c": "Battle of Trafalgar"
+        },
+        {
+            "q": "What is the first recorded major battle in history?",
+            "a1": "Battle of Marathon",
+            "a2": "Battle of Meggido",
+            "a3": "Battle of Plaetaea",
+            "a4": "Battle of Canae",
+            "c": "Battle of Meggido"
+        },
+        {
+            "q": "During the Chu-Han Contention, what was the final battle between these two kingdoms?",
+            "a1": "Battle of Gaixia",
+            "a2": "Battle of Xingyang",
+            "a3": "Battle of Pengcheng",
+            "a4": "Battle at the Wei River",
+            "c": "Battle of Gaixia"
+        },
+        {
+            "q": "Which is considered 'mythical' amongst these dynasties?",
+            "a1": "Shang",
+            "a2": "Zhou",
+            "a3": "Xia",
+            "a4": "Song",
+            "c": "Xia"
+        },
+        {
+            "q": "How much of the city of Stalingrad was taken over by the Germans before the Soviet counter-offensive?",
+            "a1": "45%",
+            "a2": "50%",
+            "a3": "75%",
+            "a4": "90%",
+            "c": "90%"
+        },
+        {
+            "q": "Who is the first programmer in history?",
+            "a1": "Steve Wozniak",
+            "a2": "Paul Allen",
+            "a3": "Ada Lovelace",
+            "a4": "Larry Page",
+            "c": "Ada Lovelace"
+        },
+        {
+            "q": "When did the United Israelite Kingdom split?",
+            "a1": "1050 BC",
+            "a2": "722 BC",
+            "a3": "586 BC",
+            "a4": "931 BC",
+            "c": "931 BC"
+        },
+        {
+            "q": "When was the infamous 'Black Sox Scandal'?",
+            "a1": "1921",
+            "a2": "1919",
+            "a3": "1920",
+            "a4": "1918",
+            "c": "1919"
+        },
+        {
+            "q": "Which Nazi extermination camp claimed more lives?",
+            "a1": "Belzec",
+            "a2": "Auschwitz",
+            "a3": "Dachau",
+            "a4": "Ravensbrueck",
+            "c": "Auschwitz"
+        },
+        {
+            "q": "Which was the worst Soviet gulag camp that was near the Artic Circle?",
+            "a1": "Omsk",
+            "a2": "Irkoetsk",
+            "a3": "Kolyma",
+            "a4": "Workoeta",
+            "c": "Kolyma"
+        },
+        {
+            "q": "What was the July 20 Plot?",
+            "a1": "A failled assassination attempt on Hitler",
+            "a2": "A failed military coup to overthrow Nazi rule",
+            "a3": "A chance to end the war quickly",
+            "a4": "All of the above",
+            "c": "All of the above"
+        },
+        {
+            "q": "Where did the Kuomingtang flee?",
+            "a1": "Korea",
+            "a2": "Vietnam",
+            "a3": "Taiwan",
+            "a4": "Japan",
+            "c": "Taiwan"
+        },
+        {
+            "q": "Who is 'The Father of the Nation' to the Republic of China?",
+            "a1": "Chiang Kai-Shek",
+            "a2": "Sun Yat-sen",
+            "a3": "Mao Zedong",
+            "a4": "Wang Jingwei",
+            "c": "Sun Yat-sen"
+        },
+        {
+            "q": "Who was the corrupt democratic leader in South Vietnam?",
+            "a1": "Ho Chi Minh",
+            "a2": "Nguyen Van Theiu",
+            "a3": "Pol Pot",
+            "a4": "Ngo Dinh Diem",
+            "c": "Ngo Dinh Diem"
+        },
+        {
+            "q": "What does 'Sic Semper Tyrannis' mean?",
+            "a1": "The South is Avenged",
+            "a2": "Seize the Night",
+            "a3": "Thus Always to Tyrants",
+            "a4": "The Unknown by the More Unknown",
+            "c": "Thus Always to Tyrants"
+        },
+        {
+            "q": "What was Sherman's scorched earth policy called?",
+            "a1": "March to the Sea",
+            "a2": "March of the South",
+            "a3": "Purge of the South",
+            "a4": "Purge to the Sea",
+            "c": "March to the Sea"
+        },
+        {
+            "q": "Who was the President of the Confederate States of America?",
+            "a1": "Joseph Johnson",
+            "a2": "Braxton Bragg",
+            "a3": "Jefferson Davis",
+            "a4": "John Breckinridge",
+            "c": "Jefferson Davis"
+        },
+        {
+            "q": "Who abolished the English monarchy and established a Republic?",
+            "a1": "Richard Montagu",
+            "a2": "William Laud",
+            "a3": "Oliver Cromwell",
+            "a4": "Athur Haselrig",
+            "c": "Oliver Cromwell"
+        },
+        {
+            "q": "Who is NOT a member of NATO?",
+            "a1": "Germany",
+            "a2": "Italy",
+            "a3": "Poland",
+            "a4": "Austria",
+            "c": "Austria"
+        },
+        {
+            "q": "Which Roman Emperor was killed by his own bodyguards?",
+            "a1": "Nero",
+            "a2": "Caligula",
+            "a3": "Commodus",
+            "a4": "Claudius",
+            "c": "Caligula"
+        },
+        {
+            "q": "How many Diodachi were there after Alexander the Great's Death?",
+            "a1": "4",
+            "a2": "3",
+            "a3": "5",
+            "a4": "2",
+            "c": "4"
+        },
+        {
+            "q": "Which Spartan King fought at the Battle of Thermopylae?",
+            "a1": "Cleomenes",
+            "a2": "Leonidas",
+            "a3": "Demophilus",
+            "a4": "Eurybiades",
+            "c": "Leonidas"
+        },
+        {
+            "q": "Who led the American forces into a major defeat at the Battle of Camden?",
+            "a1": "Nathaniel Greene",
+            "a2": "Horatio Gates",
+            "a3": "Daniel Morgan",
+            "a4": "Thomas Sumter",
+            "c": "Horatio Gates"
+        },
+        {
+            "q": "Who helped organize, drill, and instill discipline in the Continental Army at Valley Forge?",
+            "a1": "George Washington",
+            "a2": "Alexander Hamilton",
+            "a3": "Wilhelm von Steuben",
+            "a4": "Marquis de Layfayette",
+            "c": "Wilhelm von Steuben"
+        },
+        {
+            "q": "Who was the first soldier to receive the Medal of Honor?",
+            "a1": "Jacob Parrott",
+            "a2": "Winfield Scott",
+            "a3": "Edward Townsend",
+            "a4": "Gideon Welles",
+            "c": "Jacob Parrott"
+        },
+        {
+            "q": "Who was Emperor of Austria during the Napoleonic Wars?",
+            "a1": "Ferdinand I",
+            "a2": "Franz Joseph I",
+            "a3": "Charles I",
+            "a4": "Francis I",
+            "c": "Francis I"
+        },
+        {
+            "q": "Who was the Emperor of Japan during World War 2?",
+            "a1": "Emperor Taisho",
+            "a2": "Emperor Akihito",
+            "a3": "Emperor Hirohito",
+            "a4": "Emperor Naruhito",
+            "c": "Emperor Hirohito"
+        },
+        {
+            "q": "What notorious 1920s gangster had a film based off him in 1983",
+            "a1": "Charles Luciano",
+            "a2": "George Barnes",
+            "a3": "Al Capone",
+            "a4": "Charles Floyd",
+            "c": "Al Capone"
+        },
+        {
+            "q": "What year was the Illuminati founded?",
+            "a1": "1776",
+            "a2": "1784",
+            "a3": "1848",
+            "a4": "1815",
+            "c": "1776"
+        },
+        {
+            "q": "Which silent film grossed the most money in film history?",
+            "a1": "What Price Glory?",
+            "a2": "The Hunchback of Notre Dame",
+            "a3": "The Birth of a Nation",
+            "a4": "The Big Parade",
+            "c": "The Birth of a Nation"
+        }
+    ]
+}
