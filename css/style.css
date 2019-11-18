@@ -6,10 +6,6 @@
     color: white;
 }
 
-.blackText{
-    color: black;
-}
-
 .titletext{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 72px;
@@ -125,6 +121,12 @@
 .options-flex{
     display: flex;
     justify-content: flex-end;
+}
+
+.options-flex1{
+    display: flex;
+    justify-content: flex-end;
+    color: black;
 }
 
 .menu-center{
